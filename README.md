@@ -15,4 +15,5 @@
 ## Project Description 
 A visually C++ game with sound effects and increasing difficulty levels. A graphical snake game using libraries like SFML or SDL. 
 ## Output view: 
-![Uploading Task3.jpg…]()
+![Task3](https://github.com/user-attachments/assets/2c90df33-a333-4916-8956-5fefa1b83f30)
+
